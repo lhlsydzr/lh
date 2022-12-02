@@ -60,5 +60,3 @@ System.out.println(data);
  }
 }
 ```
-#### 运行截图
-https://gitee.com/xing-kuizheng/experiment-5/blob/master/%E5%AE%9E%E9%AA%8C%E4%BA%94.png
